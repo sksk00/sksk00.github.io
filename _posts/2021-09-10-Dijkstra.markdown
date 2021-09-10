@@ -11,7 +11,7 @@ categories: greedy
 ## 2. 접근법 및 풀이
 
 ## 3. 코드 구현
-'''java
+```java
     
 import java.util.Random;
 import java.util.Scanner;
@@ -82,4 +82,4 @@ public class Dijkstra {
     }
 }
 
-'''
+```
