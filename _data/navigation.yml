@@ -1,10 +1,7 @@
 # main links
 main:
-  - title: "Archive"
-    url: /year-archive/
-  - title: "Category"
-    url: /categories/
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Algorithm"
+    url: /Algorithm/
   - title: "About"
     url: /about/
   # - title: "Sample Collections"
